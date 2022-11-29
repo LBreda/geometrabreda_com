@@ -1,0 +1,16 @@
+@import '~bootstrap/scss/bootstrap.scss';
+@import "~animate.css";
+@import "slick-carousel/slick/slick";
+@import "slick-carousel/slick/slick-theme";
+@import 'mixins';
+@import 'variables';
+@import 'typography';
+@import 'common';
+@import 'buttons';
+@import 'templates/navigation';
+@import 'templates/main';
+
+@font-face {
+  font-family: "Font Awesome Webfont";
+  src: url("../../../node_modules/@fortawesome/fontawesome-pro/webfonts/fa-regular-400.woff2");
+}
